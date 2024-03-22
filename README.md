@@ -14,6 +14,6 @@ The withColumn function in PySpark is used to add a new column to an existing Da
 ### Pivot & Unpivot Operations
 The notebook also covers pivot and unpivot operations in PySpark. Pivot operations transform row values into column names, and unpivot operations do the reverse. The notebook demonstrates these operations using a DataFrame of Olympic medal counts.
 
-For the full code and output, please refer to the Jupyter notebook.
+For the full code and output, please refer to the [Jupyter notebook: Data Manipulation with PySpark](https://github.com/CatelloTheDataProjectManager/data_manipulation_with_pysapark/blob/main/data_manipulation_with_pysapark.ipynb).
 
 Happy learning! 🚀
