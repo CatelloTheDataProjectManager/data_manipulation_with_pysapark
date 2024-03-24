@@ -4,13 +4,15 @@ This repository contains a Jupyter notebook that showcases the use of PySpark wi
 
 ## ETL Data Transformation with AWS Glue and S3
 
-***In real-world applications, I have effectively deployed ETL (Extract, Transform, Load) Data Transformation pipelines utilizing AWS Glue.** 
+***In real-world applications, I have effectively deployed ETL (Extract, Transform, Load) Data Transformation pipelines utilizing AWS Glue.***
 
 This involved:
 
 - Extracting data from various sources.
 - Transforming the data using PySpark to clean, filter, aggregate, or enrich it as needed.
 - Loading the transformed data into data warehouses or data lakes stored on S3.
+
+  <img src="https://github.com/CatelloTheDataProjectManager/data_manipulation_with_pysapark/blob/main/AWS%20workflow.png" width="600">
 
 Additionally, I automated the execution of large-scale data processing tasks using AWS Glue, ensuring timely and efficient processing of data at scale.
 
