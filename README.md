@@ -14,8 +14,9 @@ This involved:
 
   <img src="https://github.com/CatelloTheDataProjectManager/data_manipulation_with_pysapark/blob/main/AWS%20workflow.png" width="600">
 
-Additionally, I automated the execution of large-scale data processing tasks using AWS Glue, ensuring timely and efficient processing of data at scale.
+- Additionally, I automated the execution of large-scale data processing tasks using AWS Glue, ensuring timely and efficient processing of data at scale.
 
+***Using PySpark in ETL (Extract, Transform, Load) processes with AWS Glue and S3 offers significant advantages for building robust data transformation pipelines***
 
 ### Broadcast Variables
  In this notebook, we create a broadcast variable `broadcast_status` to store a mapping of marital status codes to their corresponding full names.
