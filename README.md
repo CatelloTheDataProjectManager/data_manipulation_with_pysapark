@@ -11,10 +11,9 @@ This involved:
 - Extracting data from various sources.
 - Transforming the data using PySpark to clean, filter, aggregate, or enrich it as needed.
 - Loading the transformed data into data warehouses or data lakes stored on S3.
-
-  <img src="https://github.com/CatelloTheDataProjectManager/data_manipulation_with_pysapark/blob/main/AWS%20workflow.png" width="600">
-
 - Additionally, I automated the execution of large-scale data processing tasks using AWS Glue, ensuring timely and efficient processing of data at scale.
+
+    <img src="https://github.com/CatelloTheDataProjectManager/data_manipulation_with_pysapark/blob/main/AWS%20workflow.png" width="600">
 
 ***Using PySpark in ETL (Extract, Transform, Load) processes with AWS Glue and S3 offers significant advantages for building robust data transformation pipelines***
 
