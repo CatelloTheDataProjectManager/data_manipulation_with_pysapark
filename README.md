@@ -29,7 +29,17 @@ The notebook demonstrates several uses of this function, including updating a co
 ### Pivot & Unpivot Operations
 Pivot operations transform row values into column names, and unpivot operations do the reverse. The notebook demonstrates these operations using a DataFrame of Olympic medal counts.
 
+### PySpark's MapReduce
+
+In the last section shows how to analyze sales data using PySpark's MapReduce capabilities. This example demonstrates how PySpark can be used for data analysis tasks with large datasets.
+
 For the full code and output, please refer to the Jupyter notebook: [Data Manipulation with PySpark](https://github.com/CatelloTheDataProjectManager/data_manipulation_with_pysapark/blob/main/data_manipulation_with_pysapark.ipynb).
 
-Happy learning! 🚀
+Happy learning and coding! 🚀
+
+###### (If you want to learn more about Map-Reduce en Python and its functionalities, check out the my project on : [Map-Reduce en Python](https://github.com/CatelloTheDataProjectManager/Map-Reduce-en-Python/blob/main/README.md).)
+
+
+
+
 
