@@ -29,7 +29,7 @@ The notebook demonstrates several uses of this function, including updating a co
 ### Pivot & Unpivot Operations
 Pivot operations transform row values into column names, and unpivot operations do the reverse. The notebook demonstrates these operations using a DataFrame of Olympic medal counts.
 
-For the full code and output, please refer to the [Jupyter notebook: Data Manipulation with PySpark](https://github.com/CatelloTheDataProjectManager/data_manipulation_with_pysapark/blob/main/data_manipulation_with_pysapark.ipynb).
+For the full code and output, please refer to the Jupyter notebook: [Data Manipulation with PySpark](https://github.com/CatelloTheDataProjectManager/data_manipulation_with_pysapark/blob/main/data_manipulation_with_pysapark.ipynb).
 
 Happy learning! 🚀
 
